@@ -1,0 +1,56 @@
+{
+  "lactoseFree": [
+    {
+      "productName": "Молоко",
+      "variations": [
+        "Молоко Parmalat Comfort, безлактозное, 1,8%, 1 л",
+        "Молоко Parmalat UHT Comfort, безлактозное, 3,5%, 1 л",
+        "Молоко Parmalat UHT Comfort, безлактозное, 0,05%, 1 л",
+        "Молоко питьевое Valio Eila безлактозное c вит D 1,5%, 250мл",
+        "Молоко Простоквашино, безлактозное, ультрапастеризованное, 1,5%, 970 мл"
+      ]
+    },
+    {
+      "productName": "Сливки",
+      "variations": [
+        "Сливки Parmalat Comfort, безлактозные, 20%, 500 г",
+        "Сливки Parmalat Comfort 11%, безлактозное, 200 г х 12 шт"
+      ]
+    },
+    {
+      "productName": "Напитки",
+      "variations": [
+        "Молочный коктейль Parmalat Comfort Капучино Edge безлактозный, 500 мл., тетра-пак 4шт",
+        "Молочный коктейль безлактозный Parmalat Comfort Чоколатта Edge, 500 мл",
+        "Напиток Кофейный на коровьем безлактозном молоке / Напиток без сахара / Напиток  Cappuccino Magic Cofe 3 шт по 1л"
+      ]
+    },
+    {
+      "productName": "Пудинг",
+      "variations": []
+    },
+    {
+      "productName": "Йогурт",
+      "variations": []
+    },
+    {
+      "productName": "Сыр",
+      "variations": []
+    },
+    {
+      "productName": "Кефир",
+      "variations": []
+    },
+    {
+      "productName": "Сгущенка",
+      "variations": []
+    },
+    {
+      "productName": "Творог",
+      "variations": []
+    }
+  ],
+  "glutenFree": [
+
+  ]
+}
