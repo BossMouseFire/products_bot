@@ -28,5 +28,8 @@ def message_reply(message):
     elif analyze.check_gluten_product(message.text):
         bot.send_message(message.chat.id, analyze.get_variations_text("glutenFree", message.text))
 
+    elif message.text == templates["text_commands"]["back_menu"]:
+        bot.send_message(message.chat.id, templates["description"]["back_menu"], reply_markup=get_markup_of_start())
+
     else:
         bot.send_message(message.chat.id, templates["description"]["try_again"])
