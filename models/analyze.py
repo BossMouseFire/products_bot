@@ -24,8 +24,8 @@ class Analyze:
         index = list_product.index(product_name)
         variations = self.data[type_name][index]["variations"]
 
-        text = ""
-        for variation in variations:
-            text += variation + "\n\n"
+        result = ""
+        for idx, value in enumerate(variations, 1):
+            result += "{:d}. {:s}\n\n".format(idx, value)
 
-        return text
+        return result
